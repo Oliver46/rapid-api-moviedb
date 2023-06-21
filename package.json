@@ -1,0 +1,16 @@
+{
+  "name": "api5",
+  "version": "1.0.0",
+  "description": "rapid api movie db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "movie",
+    "db"
+  ],
+  "author": "Oliver Leon",
+  "license": "ISC"
+}
